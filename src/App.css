@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+
 .text-border {
+  font-family: 'Bowlby One SC', cursive;
   -webkit-text-stroke: 2px black;
 }
 /* .App {
